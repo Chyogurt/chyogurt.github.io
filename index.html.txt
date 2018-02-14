@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Личная информация</title>
+</head>
+<body>
+<center><h1><b><font style="color:blue" face="arial">Личная информация</font></b></h1></center>
+<br/><br/>
+Яцунь И.В.
+<br/><br/>
+ИДБ-14-13
+<br/><br/>
+"Проектирование информационных систем"
+
+</body>
+</html>
