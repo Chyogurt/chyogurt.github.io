@@ -9,7 +9,7 @@
 
 # Роли:
 * РП, АД, КО | [Яцунь И.В. (ИДМ-18-05)](https://chyogurt.github.io/index.html)
-* ВН, НИ, БА | [Матвеев А.С. (ИДМ-18-01)]( )
+* ВН, НИ, БА | [Матвеев А.С. (ИДМ-18-01)](https://keklgar.github.io/Otchet/projects.html)
 * СП, ПП     | [Шуленина А.В. (ИДМ-18-04)](https://asay1515.github.io/)
 
 
